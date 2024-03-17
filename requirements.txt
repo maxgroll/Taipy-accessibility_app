@@ -1,0 +1,11 @@
+taipy
+streamlit
+validators
+Pillow
+selenium
+axe-selenium-python
+pandas
+requests
+beautifulsoup4
+lxml
+python-dotenv
